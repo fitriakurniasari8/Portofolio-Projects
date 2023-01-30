@@ -6,4 +6,5 @@ About the dataset:  Netflix is one of the most popular media and video streaming
 In this project, I only analyzed the last decade from the data. I created a report analysis in Google Data Studio.
 
 Data from Kaggle: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 Report: https://lookerstudio.google.com/s/ig3LnNV7_Qo
